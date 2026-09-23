@@ -1,5 +1,9 @@
  #  **Louise Christina de Andrade Silva Soares**
+ >
+ ***
+ >
 ## **Education**
+>
  - PhD in Texts and Technology
     - University of Central Florida, Orlando, Florida, United States, 2026-2030
 >
@@ -16,7 +20,7 @@
 > 
 - Graduate Research Associate
     - Center for Humanities and Digital Research, University of Central Florida 
-    - 2026 -
+    - 2026 - 
 >
 - Writer Analyst for Artificial Intelligence
     - Telus Digital
@@ -47,13 +51,13 @@
     - 2012 - 2016
 >
 >
->
-#### **Publications**
->
->
->
 ##### **Skills**
 >
+- Journalistic writing
+- Creative writing
+- Storytelling
+- Academic Research
+- Brazilian culture
 >
 >
 ###### Languages
