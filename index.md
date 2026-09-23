@@ -1,8 +1,25 @@
- #  **Louise Christina de Andrade Silva Soares**
+ ---
+layout: default
+title: Louise Christina de Andrade Silva Soares - Academic Portfolio
+---
+![IMG_7929.jpg](/assets/IMG_7929.jpgjpg)
  >
  ***
- >
-## **Education**
+ > 
+# Louise Christina de Andrade Silva Soares
+>
+## Graduate Research Associate / PhD Student at the University of Central Florida 
+
+### About me
+
+I am a Brazilian journalist and writer with an interest in researching the intersection of communications, writing and technology, especially in the fields of Artificial Intelligence, Creativity, Authorship and Literature. i have a background in journalism, communications, creative writing and technology and a strong interest in storytelling, digital narratives and technology. 
+>
+### Research Interests
+- Communication in the age of AI
+- Digital Narrative
+- Multimedia Storytelling
+>
+>## **Education**
 >
  - PhD in Texts and Technology
     - University of Central Florida, Orlando, Florida, United States, 2026-2030
@@ -62,4 +79,10 @@
 - English: Fluent
 - Spanish: Intermediary
 - French: Intermediary
+>
+### Contact
+> 
+- Email: louisechristina.deandradesilvasoares@ucf.edu
+>
+>
 >
