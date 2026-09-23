@@ -14,9 +14,7 @@
 - B.A. in Communications with a major in Journalism
     - Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil, 2007-2011
 > 
->
->
-### **Professional**
+## **Professional**
 > 
 - Graduate Research Associate
     - Center for Humanities and Digital Research, University of Central Florida 
@@ -50,8 +48,7 @@
     - Folha de S.Paulo
     - 2012 - 2016
 >
->
-##### **Skills**
+## **Skills**
 >
 - Journalistic writing
 - Creative writing
@@ -59,14 +56,10 @@
 - Academic Research
 - Brazilian culture
 >
->
-###### Languages
+## **Languages**
 >
 - Portuguese: Fluent
 - English: Fluent
 - Spanish: Intermediary
 - French: Intermediary
->
->
->
 >
