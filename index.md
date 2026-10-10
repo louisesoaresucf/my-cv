@@ -2,7 +2,7 @@
 layout: default
 title: Louise Christina de Andrade Silva Soares - Academic Portfolio
 ---
-![IMG_7929.jpg](/assets/IMG_7929.jpgjpg)
+![IMG_7929.jpg](/assets/IMG_7929.jpg)
  >
  ***
  > 
