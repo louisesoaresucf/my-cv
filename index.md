@@ -12,7 +12,7 @@ title: Louise Christina de Andrade Silva Soares - Academic Portfolio
 
 ### About me
 
-I am a Brazilian journalist and writer with an interest in researching the intersection of communications, writing and technology, especially in the fields of Artificial Intelligence, Creativity, Authorship and Literature. i have a background in journalism, communications, creative writing and technology and a strong interest in storytelling, digital narratives and technology. 
+I am a Brazilian journalist and writer with an interest in researching the intersection of communications, writing and technology, especially in the fields of Artificial Intelligence, Creativity, Authorship and Literature. I have a background in journalism, communications, creative writing and technology and a strong interest in storytelling, digital narratives and technology. 
 >
 ### Research Interests
 - Communication in the age of AI
