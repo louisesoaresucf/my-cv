@@ -3,7 +3,7 @@ layout: default
 title: Louise Christina de Andrade Silva Soares - Academic Portfolio
 ---
 ![IMG_7929.jpg](/assets/IMG_7929.jpg)
- <img src= "{{ site.baseurl }}/assests/featured-image.jpg"
+<img src= "{{ site.baseurl }}/assets/IMG_7929.jpg"
 alt="Louise Christina de Andrade Silva Soares - Academic Portfolio" width="220" style="float: right; margin:0 0 1em 1.5em;"> 
 > 
  ***
