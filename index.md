@@ -1,16 +1,18 @@
- ---
+---
 layout: default
 title: Louise Christina de Andrade Silva Soares - Academic Portfolio
 ---
 ![IMG_7929.jpg](/assets/IMG_7929.jpg)
- >
+ <img src= "{{ site.baseurl }}/assests/featured-image.jpg"
+alt="Louise Christina de Andrade Silva Soares - Academic Portfolio" width="220" style="float: right; margin:0 0 1em 1.5em;"> 
+> 
  ***
  > 
 # Louise Christina de Andrade Silva Soares
 >
 ## Graduate Research Associate / PhD Student at the University of Central Florida 
 
-### About me
+### About me:
 
 I am a Brazilian journalist and writer with an interest in researching the intersection of communications, writing and technology, especially in the fields of Artificial Intelligence, Creativity, Authorship and Literature. I have a background in journalism, communications, creative writing and technology and a strong interest in storytelling, digital narratives and technology. 
 >
