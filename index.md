@@ -3,14 +3,14 @@ layout: default
 title: Louise Christina de Andrade Silva Soares - Academic Portfolio
 ---
 ![IMG_7929.jpg](/assets/IMG_7929.jpg)
-<img src= "{{ site.baseurl }}/assets/IMG_7929.jpg"
-alt="Louise Christina de Andrade Silva Soares - Academic Portfolio" width="220" style="float: right; margin:0 0 1em 1.5em;"> 
 > 
  ***
  > 
 # Louise Christina de Andrade Silva Soares
 >
-## Graduate Research Associate / PhD Student at the University of Central Florida 
+## Graduate Research Associate / PhD Student at the University of Central Florida
+<img src= "{{ site.baseurl }}/assets/IMG_7929.jpg"
+alt="Louise Christina de Andrade Silva Soares - Academic Portfolio" width="220" style="float: right; margin:0 0 1em 1.5em;"> 
 
 ### About me:
 
@@ -23,8 +23,8 @@ I am a Brazilian journalist and writer with an interest in researching the inter
 >
 >## **Education**
 >
- - PhD in Texts and Technology
-    - University of Central Florida, Orlando, Florida, United States, 2026-2030
+- PhD in Texts and Technology
+   - University of Central Florida, Orlando, Florida, United States, 2026-2030
 >
 - M.A. in Journalism, Media and Globalization with a specialism in Business and Financial Journalism
     - First year at Aarhus University, in Aarhus, Denmark (2016-2017)
