@@ -3,12 +3,14 @@ layout: default
 title: Louise Christina de Andrade Silva Soares - Academic Portfolio
 ---
 ***
-> 
+> <img src= "{{ site.baseurl }}/assets/IMG_7929.jpg"
+alt="Louise Christina de Andrade Silva Soares - Academic Portfolio" width="220" style="float: right; margin:0 0 1em 1.5em;"> 
+>
+
 # Louise Christina de Andrade Silva Soares
 >
 ## Graduate Research Associate / PhD Student at the University of Central Florida
-<img src= "{{ site.baseurl }}/assets/IMG_7929.jpg"
-alt="Louise Christina de Andrade Silva Soares - Academic Portfolio" width="220" style="float: right; margin:0 0 1em 1.5em;"> 
+
 
 ### About me:
 
