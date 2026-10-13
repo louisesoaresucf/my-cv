@@ -2,10 +2,8 @@
 layout: default
 title: Louise Christina de Andrade Silva Soares - Academic Portfolio
 ---
-![IMG_7929.jpg](/assets/IMG_7929.jpg)
+***
 > 
- ***
- > 
 # Louise Christina de Andrade Silva Soares
 >
 ## Graduate Research Associate / PhD Student at the University of Central Florida
